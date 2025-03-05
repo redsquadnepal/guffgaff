@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tanka Budha Magar</title>
+    <title>Tanka Magar</title>
 </head>
 <body>
-    <p>Hello Sansar</p>
+    <h1>Hello World</h1>
 </body>
 </html>
